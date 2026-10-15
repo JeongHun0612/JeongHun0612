@@ -26,7 +26,7 @@
       <b>4인 팀 팀장<br/>Steam 출시</b>
     </td>
     <td align="center" valign="top" width="33%">
-      <img src="images/udangtang-patrol.jpg" width="100%" alt="우당탕 방범대" />
+      <img src="images/udangtang-patrol.png" width="100%" alt="우당탕 방범대" />
       <h3>우당탕 방범대</h3>
       <p>적 웨이브를 돌파하며 성장하는 3D 서바이벌 액션 게임</p>
       <b>4인 팀 팀장<br/>Unity · PC</b>
