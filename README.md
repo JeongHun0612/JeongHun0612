@@ -17,7 +17,7 @@
       <img src="images/butterpop.jpg" width="100%" alt="ButterPop!" />
       <h3>ButterPop!</h3>
       <p>버터 스퀴시를 올려쳐 안착시키는 캐주얼 모바일 게임</p>
-      <b>개발 전담 · 출시<br/>gamescom asia 2026 전시</b>
+      <b>개발 전담<br/>Android · 앱인토스 출시<br/>gamescom asia 2026 전시</b>
     </td>
     <td align="center" valign="top" width="33%">
       <img src="images/pixel-chroma.jpg" width="100%" alt="Pixel Chroma" />
